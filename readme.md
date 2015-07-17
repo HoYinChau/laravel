@@ -7,6 +7,7 @@ hoyin-laravel.esy.es
 Admin Site
 
 http://hoyin-laravel.esy.es/public/auth/login
+
 ACC：admin@admin.com
 PW：123456
 
