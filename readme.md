@@ -1,4 +1,16 @@
 That's my first website with Laravel
+
+Demo Site
+
+hoyin-laravel.esy.es
+
+Admin Site
+
+http://hoyin-laravel.esy.es/public/auth/login
+ACC：admin@admin.com
+PW：123456
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
